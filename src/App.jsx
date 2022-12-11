@@ -1,7 +1,7 @@
-import 'aframe'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader'
 import sky from './stars.jpg'
 import mountain from './models/mountains.glb?url'
+import Car from './Car'
 
 function App() {
   const loader = new GLTFLoader()
@@ -21,7 +21,8 @@ function App() {
       rotation="0 0 0"
       >
       </a-sky>
-      <a-entity id="mountain" position="0 0 0"></a-entity>
+      <a-entity id="mountain" position="0 0 0" scale="15 15 15"></a-entity>
+      <Car x={20} y={0} z={-10} />
     </a-scene>
   )
 }

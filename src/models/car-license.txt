@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vulcan - Rocket League
+* source:	https://sketchfab.com/3d-models/vulcan-rocket-league-57f7f6e71f78476b84f823064c289056
+* author:	Vyacheslav (https://sketchfab.com/Vedunov.s)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vulcan - Rocket League" (https://sketchfab.com/3d-models/vulcan-rocket-league-57f7f6e71f78476b84f823064c289056) by Vyacheslav (https://sketchfab.com/Vedunov.s) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
